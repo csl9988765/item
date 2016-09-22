@@ -1,5 +1,7 @@
 <script type="text/javascript">
   window.onload = functon () {
-    alert('hello!');
-  };
+   
+   
+   
+   console.log('Hello World!');
 <script>
